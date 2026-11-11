@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "name": "yichen-codex-chatgpt",
+  "kind": "skill",
+  "business_domain": "Codex and ChatGPT Pro research, architecture, and review",
+  "repository": "https://github.com/finnlyu41-tech/yichen-skills",
+  "branch": "main",
+  "source_path": "yichen-codex-chatgpt",
+  "maintenance_path": "MAINTENANCE.md",
+  "entrypoints": ["SKILL.md"]
+}
