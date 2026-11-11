@@ -38,6 +38,7 @@ The ChatGPT website UI is the control channel for short protocol messages. The S
 
 ## Resource Guide
 
+- Before updating this Skill or reconciling an installed copy with its source, read [MAINTENANCE.md](MAINTENANCE.md).
 - Read [references/setup.md](references/setup.md) before first use on a new machine; it defines the external runtime contract, local configuration placeholders, and evidence-storage boundary. This public Skill does not include a Tunnel client or MCP runtime.
 - Read [references/browser-surface-ladder.md](references/browser-surface-ladder.md) before every ChatGPT website route; it defines in-app priority, Chrome and Computer Use fallback eligibility, confirmation gates, and exactly-once handoff.
 - Read [references/chat-pro-selection.md](references/chat-pro-selection.md) before every ChatGPT website route; it defines automatic Chat/Pro selection and the fail-closed boundary.
